@@ -1,6 +1,6 @@
 Linux      |      Powershell
 --------------------------------
-cp         |    Set-Location  
+cp         |    Copy-Item  
 
 rm         |    Remove-Item  
 
@@ -14,4 +14,4 @@ history    |    Get-History
 
 alias      |    Get-Alias  
 
-cat        |    Set-Location
+cat        |    Get-Content
