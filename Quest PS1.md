@@ -8,7 +8,7 @@ rm → Remove-Item
 
 cd → Set-Location  
 
-mkdir → mkdir  
+mkdir → New-Item  
 
 man → Help 
 
